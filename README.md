@@ -6,8 +6,9 @@ Overall, this project was created with the intent to potentially simulate the so
   - Create new accounts
   - Check the account balance
   - Withdraw and deposit funds
-  - Make changes to their password
+  - Reset the password
   - Transfer funds to other accounts
+  - View bank transaction history
   - Delete an account
   
 It is important to note that the Graphical User Interface (GUI) created is not very visually appealing. 
