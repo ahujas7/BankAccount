@@ -174,8 +174,8 @@ public class BankAccount
 
 		Random gen = new Random();
 
-		for (int x = 0; x < length; x++) {
-
+        for (int x = 0; x < length; x++) 
+        {
 			int num = gen.nextInt(NUM_DIGITS);
 
 			acNum += num;
@@ -187,7 +187,6 @@ public class BankAccount
                 length++;
                 continue;
             } 
-
 		}
 
 		acctNum = Integer.parseInt(acNum);
