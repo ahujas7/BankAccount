@@ -13,3 +13,5 @@ Overall, it was made with the intent to potentially simulate the software in an 
   
 It is important to note that the Graphical User Interface (GUI) created is not very visually appealing. 
 This project's main focus was functionality and to serve as a learning opportunity rather than user interface design.
+
+Check out some screenshots of the application at: https://www.sites.google.com/view/sakshamahuja/projects/bank-of-java
