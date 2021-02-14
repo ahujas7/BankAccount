@@ -2,7 +2,7 @@
 
 This bank account application was created using Java along with the Abstract Window Toolkit (AWT) and Swing packages. 
 
-Overall, this project was created with the intent to potentially simulate the software in an ATM machine, by allowing the user to perform basic operations such as:
+Overall, it was made with the intent to potentially simulate the software in an ATM machine, by allowing the user to perform basic operations such as:
   - Create new accounts
   - Check the account balance
   - Withdraw and deposit funds
